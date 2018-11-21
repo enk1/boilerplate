@@ -1,0 +1,55 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "starter-kit for .js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enk1/boilerplate.git"
+  },
+  "author": "Jakub Grzywaczewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enk1/boilerplate/issues"
+  },
+  "homepage": "https://github.com/enk1/boilerplate#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.2.0",
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "compression": "^1.7.3",
+    "cross-env": "^5.2.0",
+    "css-loader": "^1.0.1",
+    "eslint": "^5.9.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-watch": "^4.0.2",
+    "express": "^4.16.4",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "jsdom": "^13.0.0",
+    "json-schema-faker": "^0.5.0-rc16",
+    "json-server": "^0.14.0",
+    "localtunnel": "^1.9.1",
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0",
+    "nock": "^10.0.2",
+    "npm-run-all": "^4.1.3",
+    "nsp": "^3.2.1",
+    "numeral": "^2.0.6",
+    "rimraf": "^2.6.2",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.26.0",
+    "webpack-dev-middleware": "^3.4.0",
+    "webpack-hot-middleware": "^2.24.3",
+    "webpack-md5-hash": "0.0.6"
+  }
+}
