@@ -7,4 +7,5 @@ Requriments:
 
 Includes:
 - .editorconfig (requires EditorConfig plugin for VSC)
-- Babel, Webpack, express
+- Babel, Webpack, 
+- express and localtunnel
